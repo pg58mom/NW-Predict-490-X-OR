@@ -1238,7 +1238,7 @@ def main():
 #    If we want to see a lot of interim print statements, change either or both of the 
 #      debugxxxOff parameters to be False, e.g., "debugInitializeOff = False"
     debugCallInitializeOff = True
-    debugInitializeOff = False   
+    debugInitializeOff = True 
 
 # Right now, for simplicity, we're going to hard-code the numbers of layers that we have in our 
 #   multilayer Perceptron (MLP) neural network. 
